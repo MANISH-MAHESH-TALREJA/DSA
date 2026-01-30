@@ -6,4 +6,3 @@ class Solution
         return (words[words.length - 1]).length();
     }
 }
-
