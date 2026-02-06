@@ -13,4 +13,3 @@ class Solution
         return nums[nums.length - 1] + 1;
     }
 }
-
